@@ -1,0 +1,8 @@
+*.sqlite
+*.sqlite-journal
+/MySqlWorkBench
+/original
+/dev_seeds
+/old_migrations
+/start_seeds
+
